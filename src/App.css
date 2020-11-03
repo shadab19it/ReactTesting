@@ -11,10 +11,6 @@ p {
   padding: 20px 50px;
 }
 
-p:nth-child(odd) {
-  /* background-color: rgb(190, 186, 186); */
-}
-
 #top {
   height: 3px;
   background-color: rgb(147, 243, 147);
