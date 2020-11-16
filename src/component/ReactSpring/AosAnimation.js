@@ -181,7 +181,6 @@ const ReactSpring = () => {
   React.useEffect(() => {
     AOS.init({
       duration: 1500,
-      // offset: 200,
     });
   }, []);
   return (

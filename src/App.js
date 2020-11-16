@@ -1,12 +1,9 @@
 import React from "react";
-import ErrorBounday from "./component/ErrorBoundary/ErrorBounday";
-import ErrorTest from "./component/ErrorBoundary/ErrorTest";
-import ReactSpring from "./component/ReactSpring/ReactSpring";
 
 const App = () => {
   return (
     <div>
-      <ReactSpring />
+      <h1>React Appp</h1>
     </div>
   );
 };
