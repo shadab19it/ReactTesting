@@ -17,18 +17,33 @@ const Header = () => {
     <div className='header'>
       <ul>
         <li>
-          <Link to='/' className={`${activeLink("/")}`}>
+          <Link to='/main' className={`${activeLink("/main")}`}>
             Main
           </Link>
         </li>
         <li>
-          <Link to='/pages/one' className={`${activeLink("/pages/one")}`}>
-            Page One
+          <Link to='/pages/allposts' className={`${activeLink("/pages/allposts")}`}>
+            All Posts
           </Link>
         </li>
         <li>
-          <Link to='/pages/two' className={`${activeLink("/pages/two")}`}>
-            Page Two
+          <Link to='/pages/startbucks' className={`${activeLink("/pages/startbucks")}`}>
+            Star Bugs
+          </Link>
+        </li>
+        <li>
+          <Link to='/pages/search-list' className={`${activeLink("/pages/search-list")}`}>
+            Search-list
+          </Link>
+        </li>
+        <li>
+          <Link to='/pages/top-scroll-bar' className={`${activeLink("/pages/top-scroll-bar")}`}>
+            Top Scroll bar
+          </Link>
+        </li>
+        <li>
+          <Link to='/pages/callback-memo' className={`${activeLink("/pages/callback-memo")}`}>
+            CallbackMemo
           </Link>
         </li>
       </ul>

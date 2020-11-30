@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./App.css";
+import "../../App.scss";
 
 function TopScrollbar() {
   const [topInde, setTopInde] = useState("0");
