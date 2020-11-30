@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ReactTesting.git/static/css/main.9ea73b15.chunk.css",
+    "main.js": "/ReactTesting.git/static/js/main.0d3d074b.chunk.js",
+    "main.js.map": "/ReactTesting.git/static/js/main.0d3d074b.chunk.js.map",
+    "runtime-main.js": "/ReactTesting.git/static/js/runtime-main.f5d6a177.js",
+    "runtime-main.js.map": "/ReactTesting.git/static/js/runtime-main.f5d6a177.js.map",
+    "static/css/2.13c7b176.chunk.css": "/ReactTesting.git/static/css/2.13c7b176.chunk.css",
+    "static/js/2.2762c677.chunk.js": "/ReactTesting.git/static/js/2.2762c677.chunk.js",
+    "static/js/2.2762c677.chunk.js.map": "/ReactTesting.git/static/js/2.2762c677.chunk.js.map",
+    "static/css/3.ec02d681.chunk.css": "/ReactTesting.git/static/css/3.ec02d681.chunk.css",
+    "static/js/3.5bca3ee0.chunk.js": "/ReactTesting.git/static/js/3.5bca3ee0.chunk.js",
+    "static/js/3.5bca3ee0.chunk.js.map": "/ReactTesting.git/static/js/3.5bca3ee0.chunk.js.map",
+    "static/css/4.1ca6146e.chunk.css": "/ReactTesting.git/static/css/4.1ca6146e.chunk.css",
+    "static/js/4.b2b77d19.chunk.js": "/ReactTesting.git/static/js/4.b2b77d19.chunk.js",
+    "static/js/4.b2b77d19.chunk.js.map": "/ReactTesting.git/static/js/4.b2b77d19.chunk.js.map",
+    "static/js/5.e34b19c6.chunk.js": "/ReactTesting.git/static/js/5.e34b19c6.chunk.js",
+    "static/js/5.e34b19c6.chunk.js.map": "/ReactTesting.git/static/js/5.e34b19c6.chunk.js.map",
+    "index.html": "/ReactTesting.git/index.html",
+    "static/css/2.13c7b176.chunk.css.map": "/ReactTesting.git/static/css/2.13c7b176.chunk.css.map",
+    "static/css/3.ec02d681.chunk.css.map": "/ReactTesting.git/static/css/3.ec02d681.chunk.css.map",
+    "static/css/4.1ca6146e.chunk.css.map": "/ReactTesting.git/static/css/4.1ca6146e.chunk.css.map",
+    "static/css/main.9ea73b15.chunk.css.map": "/ReactTesting.git/static/css/main.9ea73b15.chunk.css.map",
+    "static/js/2.2762c677.chunk.js.LICENSE.txt": "/ReactTesting.git/static/js/2.2762c677.chunk.js.LICENSE.txt",
+    "static/js/3.5bca3ee0.chunk.js.LICENSE.txt": "/ReactTesting.git/static/js/3.5bca3ee0.chunk.js.LICENSE.txt",
+    "static/media/img1.8fc07f15.png": "/ReactTesting.git/static/media/img1.8fc07f15.png",
+    "static/media/img2.a33944e3.png": "/ReactTesting.git/static/media/img2.a33944e3.png",
+    "static/media/img3.61b22f49.png": "/ReactTesting.git/static/media/img3.61b22f49.png",
+    "static/media/logo.766153cb.png": "/ReactTesting.git/static/media/logo.766153cb.png",
+    "static/media/thumb1.1e6ce44a.png": "/ReactTesting.git/static/media/thumb1.1e6ce44a.png",
+    "static/media/thumb2.4436a39b.png": "/ReactTesting.git/static/media/thumb2.4436a39b.png",
+    "static/media/thumb3.00b72d1c.png": "/ReactTesting.git/static/media/thumb3.00b72d1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d6a177.js",
+    "static/css/2.13c7b176.chunk.css",
+    "static/js/2.2762c677.chunk.js",
+    "static/css/main.9ea73b15.chunk.css",
+    "static/js/main.0d3d074b.chunk.js"
+  ]
+}
